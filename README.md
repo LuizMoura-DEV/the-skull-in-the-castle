@@ -1,2 +1,2 @@
 # the-skull-in-the-castle
- Jogo em C feito para terminal
+ Jogo em C++ feito para terminal
