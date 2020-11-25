@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1497960074 source:/home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibDado.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1497957946 /home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibItens.h
+
+1497957844 /home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibNPC.h
+
+1497958055 /home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibDado.h
+
+1497957625 /home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibGame.h
+
+1497960534 source:/home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibGame.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1497960259 source:/home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibItens.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1497960411 source:/home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibNPC.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1497959768 source:/home/systemf1/Documentos/IFMG/AED-2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/main.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498741571 source:/home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibDado.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1497957946 /home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibItens.h
+
+1497957844 /home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibNPC.h
+
+1497958055 /home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibDado.h
+
+1497957625 /home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/bibGame.h
+
+1498744274 source:/home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibGame.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498741562 source:/home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibItens.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498739848 source:/home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/implemBibNPC.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498345669 source:/home/systemf1/Documentos/IFMG/Algoritimo e Estrutura de Dados - 2/Atividade-06-DiegoLima-LuizMoura/The Skull in the Castle/main.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498741571 source:d:\cod\aed2\the skull in the castle\implembibdado.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1497957946 d:\cod\aed2\the skull in the castle\bibitens.h
+
+1497957844 d:\cod\aed2\the skull in the castle\bibnpc.h
+
+1497958055 d:\cod\aed2\the skull in the castle\bibdado.h
+
+1497957625 d:\cod\aed2\the skull in the castle\bibgame.h
+
+1498744274 source:d:\cod\aed2\the skull in the castle\implembibgame.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498741562 source:d:\cod\aed2\the skull in the castle\implembibitens.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498739848 source:d:\cod\aed2\the skull in the castle\implembibnpc.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+
+1498345669 source:d:\cod\aed2\the skull in the castle\main.cpp
+	<iostream>
+	<clocale>
+	<stdlib.h>
+	"bibItens.h"
+	"bibNPC.h"
+	"bibDado.h"
+	"bibGame.h"
+

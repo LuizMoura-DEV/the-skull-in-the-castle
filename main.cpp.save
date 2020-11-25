@@ -1,0 +1,24 @@
+#include <iostream>
+#include <clocale>
+#include <stdlib.h>
+#include "bibItens.h"
+#include "bibNPC.h"
+#include "bio"
+
+
+using namespace std;
+
+int main(){
+	setlocale(LC_ALL, "Portuguese");
+    TPersonagem player, npc;
+    TBancoNpc listaNpc;
+    TListaItens itens;
+    TPocao n;
+    criaListaItens(itens);
+    listaItens(itens);
+    iniciarBancoNpc(listaNpc);
+    cadastrarNPC(listaNpc);
+    criarPersonagem(player);
+    telaCombate(player, listaNpc, itens);
+	return 0;
+}
